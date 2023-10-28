@@ -39,6 +39,16 @@ Once all the requirements are downloaded run the project:
 ```
 
 
+## Demo
+
+You can check out the project here :
+
+- [Demo](https://stockanalysis-4vbqjpy35xw8xpyvzesdfq.streamlit.app/)
+
+
+
+
+
 ## Authors
 
 - [Aryan Kadiya](https://www.linkedin.com/in/aryan-kadiya/)
